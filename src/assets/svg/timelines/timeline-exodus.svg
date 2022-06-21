@@ -1,0 +1,38 @@
+<svg id="svg5" width="400" height="80" version="1.1" viewBox="0 0 105.83 21.167" xmlns="http://www.w3.org/2000/svg">
+ <title id="title1913">timeline-exodus</title>
+ <defs id="defs2">
+  <linearGradient id="linearGradient959" x1="1.8176" x2="103.75" y1="44.459" y2="44.459" gradientTransform="matrix(1.0382 0 0 1 -1.8692 -30.516)" gradientUnits="userSpaceOnUse">
+   <stop id="stop953" stop-color="#cfc9c9" offset=".89444"/>
+   <stop id="stop955" stop-color="#cfc9c9" stop-opacity="0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g id="layer1">
+  <rect id="timeline" x=".017905" y="13.229" width="105.83" height="1.426" fill="url(#linearGradient959)"/>
+  <g id="g5522" fill="#b3b3b3">
+   <rect id="tic5000bc" x="6.8792" y="13.237" width=".31411" height="3.3283"/>
+   <rect id="tic4000bc" x="20.108" y="13.237" width=".31411" height="3.9401"/>
+   <rect id="tic3000bc" x="33.337" y="13.237" width=".31411" height="3.3283"/>
+  </g>
+  <rect id="tic0" x="73.025" y="13.231" width=".17871" height="6.2164" fill="#000000"/>
+  <rect id="tic0-9" x="53.477" y="6.8" width=".23884" height="4.5" fill="#de8787" stroke-width="1.0327"/>
+  <rect id="tic1000" x="86.254" y="13.237" width=".31411" height="3.3283" fill="#b3b3b3"/>
+  <g id="g5534" fill="#999999" font-family="sans-serif" font-size="2.1167px" stroke-width=".26458">
+   <text id="text4000bc" x="14.456765" y="19.461498" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1067" x="14.456765" y="19.461498" fill="#999999" font-size="2.1167px" stroke-width=".26458">4000 B.C.E.</tspan></text>
+   <text id="text2000bc" x="40.173336" y="18.948879" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1067-7" x="40.173336" y="18.948879" fill="#999999" font-size="2.1167px" stroke-width=".26458"/></text>
+   <text id="text2000" x="93.847717" y="18.932314" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1067-7-7" x="93.847717" y="18.932314" fill="#999999" font-size="2.1167px" stroke-width=".26458">2000 C.E.</tspan></text>
+   <text id="text0" x="66.735229" y="18.932314" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1067-7-5" x="66.735229" y="18.932314" fill="#999999" font-size="2.1167px" stroke-width=".26458">B.C.E   C.E.</tspan></text>
+  </g>
+  <rect id="highlight" x="51.215" y="13.23" width="2.4347" height="1.4261" fill="#de8787" stroke-width="4.9367"/>
+  <rect id="tic4000bc-7" x="46.55" y="13.243" width=".31411" height="3.9401" fill="#b3b3b3"/>
+  <rect id="tic4000bc-7-8" x="99.492" y="13.229" width=".31411" height="3.9401" fill="#b3b3b3"/>
+  <text id="text435" x="69.243469" y="4.7024508" fill="#000000" font-family="sans-serif" font-size="2.1167px" stroke-width=".26458" text-align="end" text-anchor="end" style="line-height:1.25" xml:space="preserve"><tspan id="tspan6115" x="0" y="0"><tspan id="tspan1749" x="69.243469" y="4.7024508" font-size="2.1167px" stroke-width=".26458" text-align="end" text-anchor="end"/></tspan></text>
+  <path id="path553" d="m53.658 12.921-1.0262-1.7773h2.0523z" fill="#de8787" stroke-linejoin="bevel" stroke-width=".49883"/>
+  <path id="path553-3" d="m51.287 12.922-1.0262-1.7773h2.0523z" fill="#de8787" stroke-linejoin="bevel" stroke-width=".49883"/>
+  <rect id="tic1000bc" x="59.783" y="13.227" width=".31411" height="3.3283" fill="#b3b3b3"/>
+  <g font-family="sans-serif" font-size="2.1167px">
+   <text id="text653" x="40.951157" y="19.445875" fill="#999999" stroke-width=".26458" style="line-height:1.25" xml:space="preserve"><tspan id="tspan651" x="40.951157" y="19.445875" fill="#999999" font-size="2.1167px" stroke-width=".26458">2000 B.C.E.</tspan></text>
+   <text id="text6132" x="52.958729" y="3.1925447" fill="#000000" stroke-width=".26459" style="line-height:1.25" xml:space="preserve"><tspan id="tspan6130" x="52.958729" y="3.1925447" font-weight="bold">Joshua commissioned </tspan><tspan id="tspan6136" x="52.958729" y="5.8384194"><tspan id="tspan6193" font-weight="bold">to succeed Moses</tspan> 1473 B.C.E.</tspan></text>
+   <text id="text6141" x="12.861536" y="7.741137" fill="#000000" stroke-width=".26459" style="line-height:1.25" xml:space="preserve"><tspan id="tspan6139" x="18.2" y="7.741137" font-weight="bold">Israelites Leave Egypt</tspan><tspan id="tspan6143" x="18.2" y="10.387012"><tspan id="tspan6191" font-weight="bold">Mosaic Law covenant</tspan> 1513 B.C.E.</tspan></text>
+  </g>
+ </g>
+</svg>

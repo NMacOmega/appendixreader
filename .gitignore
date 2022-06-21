@@ -7,9 +7,15 @@
 
 # testing
 /coverage
+**/*.backup.*
 
 # production
 /build
+
+# project management
+**/*.todo
+
+
 
 # misc
 .DS_Store

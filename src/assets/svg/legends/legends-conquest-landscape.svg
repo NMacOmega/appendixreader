@@ -1,0 +1,33 @@
+<svg id="svg5" width="650" height="400" version="1.1" viewBox="0 0 171.98 105.83" xmlns="http://www.w3.org/2000/svg">
+ <title id="title4879">legend-conquest</title>
+ <g id="layer1">
+  <g fill="#000000">
+   <g font-family="sans-serif" stroke-width=".26458">
+    <text id="text186" x="3.1076226" y="15.538118" font-size="10.583px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan184" x="3.1076226" y="15.538118" stroke-width=".26458">KEY</tspan></text>
+    <g font-size="4.2333px">
+     <text id="text190" x="19.165756" y="27.049509" style="line-height:1.25" xml:space="preserve"><tspan id="tspan188" x="19.165756" y="27.049509" font-size="4.2333px" stroke-width=".26458">Campagn Route</tspan></text>
+     <text id="text194" x="19.165756" y="34.987007" style="line-height:1.25" xml:space="preserve"><tspan id="tspan192" x="19.165756" y="34.987007" font-size="4.2333px" stroke-width=".26458">Canaan</tspan></text>
+     <text id="text202" x="19.165756" y="43.432999" style="line-height:1.25" xml:space="preserve"><tspan id="tspan200" x="19.165756" y="43.432999" font-size="4.2333px" stroke-width=".26458">Location Reasonably Certain</tspan></text>
+     <text id="text206" x="19.165756" y="51.287815" style="line-height:1.25" xml:space="preserve"><tspan id="tspan204" x="19.165756" y="51.287815" font-size="4.2333px" stroke-width=".26458">Location Less Certain</tspan></text>
+     <text id="text210" x="19.165756" y="59.190178" style="line-height:1.25" xml:space="preserve"><tspan id="tspan208" x="19.165756" y="59.190178" font-size="4.2333px" stroke-width=".26458">Mountain</tspan></text>
+     <text id="text214" x="19.165756" y="67.245499" style="line-height:1.25" xml:space="preserve"><tspan id="tspan212" x="19.165756" y="67.245499" font-size="4.2333px" stroke-width=".26458">Precise Location Unknown</tspan></text>
+     <text id="text218" x="19.165756" y="75.182999" style="line-height:1.25" xml:space="preserve"><tspan id="tspan216" x="19.165756" y="75.182999" font-size="4.2333px" stroke-width=".26458">Road</tspan></text>
+    </g>
+   </g>
+   <rect id="rect430" x=".01731" y="18.646" width="171.73" height=".88789" stroke-linejoin="bevel" stroke-width=".59929"/>
+   <text id="text538" x="84.663826" y="34.793804" font-family="sans-serif" font-size="4.2333px" stroke-width=".26458" style="line-height:1.25" xml:space="preserve"><tspan id="tspan536" x="84.663826" y="34.793804">Alternative location names from same</tspan><tspan id="tspan540" x="84.663826" y="40.085468">time period are separated by a comma</tspan></text>
+   <text id="text538-4" x="83.418304" y="54.458179" font-family="sans-serif" font-size="4.2333px" stroke-width=".26458" style="line-height:1.25" xml:space="preserve"><tspan id="tspan540-5" x="83.418304" y="54.458179">Alternative location names from different</tspan><tspan id="tspan576" x="83.418304" y="59.74984">time periods are in parentheses</tspan></text>
+   <rect id="rect430-7" x="-.075882" y="80.273" width="172.07" height=".88789" stroke-linejoin="bevel" stroke-width=".59987"/>
+   <ellipse id="circle602" cx="14.817" cy="41.804" rx="1.3891" ry="1.3891" stroke="#000000" stroke-width=".39688"/>
+  </g>
+  <g id="g1198" transform="matrix(.69377 0 0 .69377 12.5 63.71)">
+   <path id="path1196" d="m2.446 3.7472q-.027905-.080615-.049609-.20774-.021704-.13022-.021704-.25735 0-.19844.077515-.35657.080615-.16123.19844-.30076.11782-.13953.25735-.26665.13953-.13022.25735-.26045.11782-.13333.19534-.27595.080615-.14573.080615-.31936 0-.14883-.058911-.26355-.05581-.11472-.15503-.19224-.099219-.077515-.22944-.11472-.13022-.040308-.27595-.040308-.524 0-.90847.41238v-.5457q.47439-.29766.98289-.29766.23564 0 .44338.062012.20774.062012.36277.18604.15813.12092.24805.30386.089917.18293.089917.42478 0 .22944-.080615.40928-.080616.17983-.20464.33176-.12092.14883-.26355.27905-.14263.13022-.26665.26045-.12092.12712-.20154.26665-.080615.13953-.080615.30696 0 .14263.034106.26045.034107.11472.068213.19534zm.27905 1.2898q-.13643 0-.24185-.099219-.10232-.099219-.10232-.24185 0-.14573.10232-.24185.10232-.10232.24185-.10232t.24185.10232q.10232.096118.10232.24185 0 .14263-.10232.24185-.10542.099219-.24185.099219z" fill="#000000"/>
+  </g>
+  <ellipse id="circle1352" cx="14.817" cy="49.742" rx="1.3891" ry="1.3891" fill="#ffffff" stroke="#000000" stroke-width=".39688"/>
+  <path id="path1550" d="m15.105 56.092c-.0866 0-.11545.05773-.17318.11545l-1.6741 2.742c-.02886.02887-.02886.08659-.02886.11545 0 .14432.11545.20204.20204.20204h3.3482c.11546 0 .20205-.05773.20205-.20204 0-.05773 0-.05773-.02886-.11545l-1.6452-2.742c-.05773-.05773-.11545-.11545-.20204-.11545zm0 .43296.9525 1.5875h-.23091l-.43296-.43296-.28864.43296-.28864-.43296-.43295.43296h-.25977z" fill="#826539" stroke-width=".28864"/>
+  <path id="path1936-6" class="UnoptimicedTransforms" transform="matrix(-.0635 0 0 -.064384 19.201 77.284)" d="m77.392 69.265s-15.035-16.417-25.007-16.417c-9.9713-1e-6-25.007 16.417-25.007 16.417v-22.66s15.561-13.328 25.007-13.328c9.4456 0 25.007 13.328 25.007 13.328zm-.02723-22.662s15.035 16.417 25.007 16.417c9.9713 1e-6 25.007-16.417 25.007-16.417v22.66s-15.561 13.328-25.007 13.328c-9.4455 0-25.007-13.328-25.007-13.328z" fill="#a05a2c" stroke-linejoin="bevel" stroke-width=".98452"/>
+  <text id="text4743" transform="scale(.26458)" fill="#000000" font-family="sans-serif" font-size="40px" style="line-height:1.25;shape-inside:url(#rect4745);white-space:pre" xml:space="preserve"/>
+  <rect id="rect693" x="12.675" y="31.543" width="4.3947" height="4.5055" fill="#008080" stroke="#ffffff" stroke-linejoin="round" stroke-width=".35216"/>
+  <path id="path1978" d="m16.163 26.341c-1.4713.29649-4.2708-.23706-4.5025.02036-.17939.19935.16322 1.3201.16322 1.3201-.69373-.78113-.82764-1.4963-1.8166-2.0801.87361-.32986 1.4523-1.0082 2.0578-1.6464 0 0-.42549 1.2051-.25232 1.3737.23521.22904 2.2117.36493 3.3281.37741 1.0939.01223 3.2683-.2968 3.2683-.2968s-1.4515.77155-2.2461.93168z" fill="#a02c2c" stroke-linejoin="bevel" stroke-width=".16816"/>
+ </g>
+</svg>

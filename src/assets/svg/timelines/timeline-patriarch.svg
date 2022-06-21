@@ -1,0 +1,43 @@
+<svg id="svg5" width="400" height="80" version="1.1" viewBox="0 0 105.83 21.167" xmlns="http://www.w3.org/2000/svg">
+ <title id="title1913">timeline-patriarch</title>
+ <defs id="defs2">
+  <linearGradient id="linearGradient959" x1="1.8176" x2="103.75" y1="44.459" y2="44.459" gradientTransform="matrix(1.0382 0 0 1 -1.8692 -30.516)" gradientUnits="userSpaceOnUse">
+   <stop id="stop953" stop-color="#cfc9c9" offset=".89444"/>
+   <stop id="stop955" stop-color="#cfc9c9" stop-opacity="0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g id="layer1">
+  <rect id="timeline" x=".017905" y="13.229" width="105.83" height="1.426" fill="url(#linearGradient959)"/>
+  <rect id="tic5000bc" x="6.8792" y="13.237" width=".31411" height="3.3283" fill="#b3b3b3"/>
+  <rect id="tic0" x="73.025" y="13.231" width=".17871" height="6.2164" fill="#000000"/>
+  <rect id="tic0-9" x="20.334" y="4.1286" width=".23884" height="7.0156" fill="#de8787" stroke-width="1.2281"/>
+  <rect id="tic1000" x="86.254" y="13.237" width=".31411" height="3.3283" fill="#b3b3b3"/>
+  <g id="g5534" fill="#999999" font-family="sans-serif" font-size="2.1167px" stroke-width=".26458">
+   <text id="text4000bc" x="14.456765" y="19.461498" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1067" x="14.456765" y="19.461498" fill="#999999" font-size="2.1167px" stroke-width=".26458">4000 B.C.E.</tspan></text>
+   <text id="text2000bc" x="40.173336" y="18.948879" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1067-7" x="40.173336" y="18.948879" fill="#999999" font-size="2.1167px" stroke-width=".26458"/></text>
+   <text id="text2000" x="93.847717" y="18.932314" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1067-7-7" x="93.847717" y="18.932314" fill="#999999" font-size="2.1167px" stroke-width=".26458">2000 C.E.</tspan></text>
+   <text id="text0" x="66.735229" y="18.932314" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1067-7-5" x="66.735229" y="18.932314" fill="#999999" font-size="2.1167px" stroke-width=".26458">B.C.E   C.E.</tspan></text>
+  </g>
+  <rect id="highlight" x="20.025" y="13.23" width="31.026" height="1.4261" fill="#de8787" stroke-width="17.623"/>
+  <g fill="#b3b3b3">
+   <rect id="tic3000bc" x="33.337" y="13.237" width=".31411" height="3.3283"/>
+   <rect id="tic4000bc-2-0" x="20.106" y="13.231" width=".31411" height="3.9401"/>
+   <rect id="tic4000bc-7" x="46.55" y="13.243" width=".31411" height="3.9401"/>
+   <rect id="tic4000bc-7-8" x="99.492" y="13.229" width=".31411" height="3.9401"/>
+  </g>
+  <text id="text435" x="69.243469" y="4.7024508" fill="#000000" font-family="sans-serif" font-size="2.1167px" stroke-width=".26458" text-align="end" text-anchor="end" style="line-height:1.25" xml:space="preserve"><tspan id="tspan6115" x="0" y="0"><tspan id="tspan1749" x="69.243469" y="4.7024508" font-size="2.1167px" stroke-width=".26458" text-align="end" text-anchor="end"/></tspan></text>
+  <g fill="#de8787">
+   <path id="path553" d="m20.483 12.921-1.0262-1.7773h2.0523z" stroke-linejoin="bevel" stroke-width=".49883"/>
+   <rect id="tic0-9-8" x="46.554" y="6.5359" width=".23884" height="4.6103" stroke-width=".99558"/>
+   <path id="path553-5" d="m46.703 12.923-1.0262-1.7773h2.0523z" stroke-linejoin="bevel" stroke-width=".49883"/>
+   <path id="path553-3" d="m51.025 12.922-1.0262-1.7773h2.0523z" stroke-linejoin="bevel" stroke-width=".49883"/>
+  </g>
+  <rect id="tic1000bc" x="59.783" y="13.227" width=".31411" height="3.3283" fill="#b3b3b3"/>
+  <text id="text653" x="40.951157" y="19.445875" fill="#999999" font-family="sans-serif" font-size="2.1167px" stroke-width=".26458" style="line-height:1.25" xml:space="preserve"><tspan id="tspan651" x="40.951157" y="19.445875" fill="#999999" font-size="2.1167px" stroke-width=".26458">2000 B.C.E.</tspan></text>
+  <g fill="#000000" font-family="sans-serif" font-size="2.1167px" stroke-width=".26459">
+   <text id="text6141" x="19.706423" y="3.4117444" style="line-height:1.25" xml:space="preserve"><tspan id="tspan6143" x="19.706423" y="3.4117444" font-size="2.1167px" stroke-width=".26459"><tspan id="tspan6285" font-size="2.1167px" font-weight="bold" stroke-width=".26459">Adam created</tspan> 4026 B.C.E.</tspan></text>
+   <text id="text6141-26" x="50.521584" y="10.554607" style="line-height:1.25" xml:space="preserve"><tspan id="tspan6143-9" x="50.521584" y="10.554607" font-size="2.1167px" stroke-width=".26459"><tspan id="tspan6285-0" font-size="2.1167px" font-weight="bold" stroke-width=".26459">Joseph dies</tspan> 1657 B.C.E.</tspan></text>
+   <text id="text6141-2" x="45.824127" y="5.7703424" style="line-height:1.25" xml:space="preserve"><tspan id="tspan6143-8" x="45.824127" y="5.7703424" font-size="2.1167px" stroke-width=".26459"><tspan id="tspan6285-9" font-size="2.1167px" font-weight="bold" stroke-width=".26459">Abrahamic covenant validated</tspan> 1943 B.C.E.</tspan></text>
+  </g>
+ </g>
+</svg>
