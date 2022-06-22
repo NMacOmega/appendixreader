@@ -75,7 +75,7 @@ const MapComponent = () => {
         {!isInfoMenuOpen && <LayerMenu />}
         <AutocompleteSearch />
         <FeatureDisplay />
-        <LoadingScreen />
+        {/* <LoadingScreen /> */}
       </MapContainer>
       <ScreenResolutionWarning />
       {error.isError && <ErrorScreen error={{ ...error }} />}
