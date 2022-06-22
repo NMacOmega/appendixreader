@@ -20,14 +20,8 @@ import BLOBS from "../assets/data/blobs.json";
 const mapboxToken = process.env.REACT_APP_MAPBOX_API_PUBLIC_KEY;
 const mapboxStyleUri = process.env.REACT_APP_MAPBOX_STYLE_URI;
 mapboxgl.accessToken = mapboxToken;
-
-// const POINTS_DATASET_ID = "cl3khnq9t01f121qugzked87v";
-
-// const defaultViewport = {
-//   lng: 35.532,
-//   lat: 31.885,
-//   zoom: 7,
-// };
+console.log(mapboxgl);
+console.log(mapboxStyleUri);
 
 export const MapBoxContext = createContext({
   mapboxMapRef: {},
@@ -73,6 +67,8 @@ export const MapBoxContext = createContext({
   BLOBS: {},
 });
 
+console.log(mapboxgl);
+
 export const MapBoxProvider = ({ children }) => {
   const initialMap = "polygons-settlement";
   const initialViewport = MAP_VIEWPORTS[initialMap] || MAP_VIEWPORTS.default;
@@ -110,6 +106,7 @@ export const MapBoxProvider = ({ children }) => {
       //attributionControl: false, Removes attribution entirely, which is illegal
     });
     activeLayerRef.current = "polygons-settlement";
+    console.log(mapboxMapRef);
     //setActiveLayer("polygons-settlement");
     //setActiveLayer(Object.keys(POLY_LAYERS)[0]);
   };
