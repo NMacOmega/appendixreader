@@ -33,7 +33,6 @@ const MapComponent = () => {
   useEffect(() => {
     initializeMap();
     mapboxMapRef.current.on("load", () => {
-      console.log(mapboxMapRef);
       onLoadHandler();
     });
   });
@@ -76,7 +75,7 @@ const MapComponent = () => {
         {!isInfoMenuOpen && <LayerMenu />}
         <AutocompleteSearch />
         <FeatureDisplay />
-        {/* <LoadingScreen /> */}
+        <LoadingScreen />
       </MapContainer>
       <ScreenResolutionWarning />
       {error.isError && <ErrorScreen error={{ ...error }} />}
