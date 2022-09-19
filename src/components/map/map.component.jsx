@@ -77,7 +77,7 @@ const MapComponent = () => {
         <FeatureDisplay />
         {/* <LoadingScreen /> */}
       </MapContainer>
-      <ScreenResolutionWarning />
+      {/* <ScreenResolutionWarning /> */}
       {error.isError && <ErrorScreen error={{ ...error }} />}
     </>
   );
