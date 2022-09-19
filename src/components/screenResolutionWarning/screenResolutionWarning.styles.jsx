@@ -28,9 +28,11 @@ export const WarningContainer = styled.div`
   display: flex;
   align-items: center;
   justify-content: center;
+  display: none;
 
   @media screen and (orientation: portrait) and (min-width: 360px) and (min-height: 665px),
     screen and (orientation: landscape) and (min-width: 665px) and (min-height: 360px) {
     display: none;
   }
 `;
+/*Set container to display none because it displays even when the keyboard on mobile shrinks the screen, not what we want*/
